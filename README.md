@@ -32,7 +32,7 @@ Mainly used for regularization:
 
 
 ## Contact
-Created by [@talha800] - feel free to contact me!
+Created by [@https://github.com/talha800] - feel free to contact me!
 
 
 <!-- Optional -->
