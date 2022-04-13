@@ -13,7 +13,9 @@ It is required to build a regression model using regularisation in order to pred
 
 ## Technique Used
 Mainly used for regularization:
+
 -Ridge Regression
+
 -Lasso Regression
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -21,7 +23,9 @@ Mainly used for regularization:
 
 ## Python Libraries
 -Scikit Learn
+
 -Pandas 
+
 -Seaborn
 
 
