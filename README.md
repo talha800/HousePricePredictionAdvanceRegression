@@ -1,5 +1,5 @@
 # House Price Prediction Using Advance Regression
-> Outline a brief description of your project.
+Predicting a House prices with advance Regression technique
 
 
 ## General Statement
@@ -13,16 +13,16 @@ It is required to build a regression model using regularisation in order to pred
 
 ## Technique Used
 Mainly used for regularization:
-Ridge Regression
-Lasso Regression
+-Ridge Regression
+-Lasso Regression
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Python Libraries
-Scikit Learn
-Pandas 
-Seaborn
+-Scikit Learn
+-Pandas 
+-Seaborn
 
 
 
